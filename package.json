@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "start learning backend",
+  "main": "first.js",
+  "scripts": {
+    "start": "node first.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chauhan-harsh630/node-backend.git"
+  },
+  "keywords": [
+    "node",
+    "backend"
+  ],
+  "author": "Harsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chauhan-harsh630/node-backend/issues"
+  },
+  "homepage": "https://github.com/chauhan-harsh630/node-backend#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
